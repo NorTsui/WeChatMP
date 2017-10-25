@@ -1,0 +1,7 @@
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\bin\Debug\WxMP.Model.dll
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\bin\Debug\WxMP.Model.pdb
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\bin\Debug\Newtonsoft.Json.dll
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\bin\Debug\Newtonsoft.Json.xml
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\obj\Debug\WxMP.Model.csprojResolveAssemblyReference.cache
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\obj\Debug\WxMP.Model.dll
+E:\SVN\Project\微信\华劲招聘服务号\WxMP_CampusRecruitment\WxMP.Model\obj\Debug\WxMP.Model.pdb
